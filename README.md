@@ -27,7 +27,7 @@
 
 ## Скриншот
 
-![Uploading image.png…]()
+<img width="1197" height="928" alt="Screenshot_1" src="https://github.com/user-attachments/assets/9a17f60f-15e7-4f5e-b27f-462fc76bcc14" />
 
 ---
 
