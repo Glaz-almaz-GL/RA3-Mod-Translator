@@ -27,7 +27,8 @@
 
 ## Скриншот
 
-<img width="1197" height="928" alt="Screenshot_1" src="https://github.com/user-attachments/assets/9a17f60f-15e7-4f5e-b27f-462fc76bcc14" />
+<img width="1198" height="930" alt="Screenshot_2" src="https://github.com/user-attachments/assets/45b0436c-751a-4993-99fc-2784fb41dc3e" />
+<img width="1198" height="935" alt="Screenshot_3" src="https://github.com/user-attachments/assets/588ceda6-84e0-4268-a438-eba613dcda23" />
 
 ---
 
